@@ -1,0 +1,5 @@
+spotipy
+flask
+flask-socketio
+python-dotenv
+fuzzywuzzy
