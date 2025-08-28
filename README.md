@@ -97,12 +97,6 @@ Then open [http://127.0.0.1:5002](http://127.0.0.1:5002) in your browser to play
 
 ---
 
-## 🤝 Contributing  
-
-Pull requests are welcome! For major changes, please open an issue first to discuss your idea.  
-
----
-
 ## 📜 License  
 
 MIT License – feel free to use, modify, and share.  
